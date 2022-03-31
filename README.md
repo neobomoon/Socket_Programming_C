@@ -1,2 +1,2 @@
-# System_Programming_C
-System Programming in C language
+# Socket_Programming_C
+Socket Programming in C language
